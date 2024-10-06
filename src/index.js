@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+
   // your code here
   document.addEventListener("DOMContentLoaded", () => {
     // Select the form element
@@ -25,4 +25,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
   
-});
